@@ -17,3 +17,6 @@ Based on area some unwanted contours will be neglected and a close bounding box 
 Since reference object is the first object in the image, the height and width of the bounding box which is having minimum x co-ordinate will be divided by the reference objects height and width to get the ratio  
 With that ratio all the remaining bounding boxes dimensions will be decided  
 Finally those bounding boxes and dimensions will be drawn on the original image 
+
+# Here is a sample output
+![alt text](https://github.com/Kashyap2502/Object_size_detection/blob/main/Results/markedtest.jpeg?raw=true)
